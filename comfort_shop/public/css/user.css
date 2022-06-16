@@ -1,0 +1,35 @@
+        .profile {
+            width: 200px;
+            margin: 30px 40px;
+            margin-top: -100px;
+            margin-left: 30%;
+        }
+
+        .container {
+            min-height: 300px;
+            align-items: center;
+        }
+
+        #h1{
+            margin-left: 39%; margin-top: 100px;
+        }
+
+        #login{
+            margin-left: 42%; line-height: 40px; color: black; padding:10px 20px; border: 1px solid black;
+        }
+
+        #logout{
+            line-height: 100px; color: black; padding:10px 20px; border: 1px solid black;
+        }
+
+        .logout{
+            margin-top: -50px;
+        }
+
+        #orders{
+            line-height: 100px; color: black; padding:10px 20px; border: 1px solid black;
+        }
+
+        .cont{
+            margin-left: -240px;
+        }

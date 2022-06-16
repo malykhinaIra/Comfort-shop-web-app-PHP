@@ -1,0 +1,19 @@
+#border{
+    border: 0.1px solid rgba(0, 0, 0, 0.555); padding: 30px 30px; align-items: center; width: 60%; margin-left: 20%;
+}
+
+#add{
+    width: 25%; line-height: 20px; color: black; padding:10px 20px; border: 1px solid black;
+}
+
+#remove{
+    width: 70px;
+}
+
+.no-items{
+    margin-top: 15%; text-align: center;
+}
+
+.container{
+    min-height: 300px;
+}

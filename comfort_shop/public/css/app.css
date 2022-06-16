@@ -1,0 +1,38 @@
+.btn{
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    border-radius: 0%;
+}
+
+.btn:hover{
+    background-color: black;
+    color: #F5EFEA;
+    border: black;
+}
+
+body{
+    background: #fff;
+    color: #000;
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    max-width: 1903px;
+    margin: 0 auto;
+}
+
+.back{
+    color: #000;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 42%;
+    line-height: 100px; color: black; padding:10px 20px; border: 1px solid black;
+}
+
+.back:hover{
+    color: #000;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 42%;
+    line-height: 100px; color: black; padding:10px 20px; border: 1px solid black;
+}

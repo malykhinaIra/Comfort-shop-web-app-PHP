@@ -1,0 +1,19 @@
+#item{
+    border: 0.1px solid rgba(0, 0, 0, 0.355); padding: 30px 30px; align-items: center; width: 50%; margin-left: 25%;
+}
+
+#img{
+    width: 200px;
+}
+
+#button{
+    width: 50px;
+}
+
+#plus{
+    width: 35px;
+}
+
+.order{
+    font-size: 24px; margin-left: 8%; line-height: 45px; color: black; padding:10px 20px; border: 1px solid black;
+}
